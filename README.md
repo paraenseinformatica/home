@@ -12,10 +12,6 @@ Macapá - AP, Brasil 🏡
 
 <br/>
 
-<p align = "center">
- <img height="285em" src="https://activity-graph.herokuapp.com/graph?username=paraenseinformatica&theme=xcode">
-</p> 
-
 <p align="center">
 
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=paraenseinformatica&show_icons=true&locale=en&layout=compact&theme=dark" />
@@ -29,7 +25,7 @@ Macapá - AP, Brasil 🏡
 <div> 
  <a href="#" target="_blank">Instagram</a> 
   <a href="#" target="_blank">Facebook</a>
-  <a href = "mailto:michelfariasazevedo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:comercial@paraenseinformatica.com.br">E-mail</a>
 </div>
 
 
